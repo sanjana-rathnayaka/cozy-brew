@@ -99,11 +99,11 @@ body{
 .about-content{
     max-width: 800px;
     margin: 0 auto;
-    font-size: 0.8rem;
+    font-size: 1.0rem;
     line-height: 1.6;
 }
 .about-section h2{
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     margin-bottom: 20px;
 }
 .footer{
